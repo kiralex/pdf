@@ -324,7 +324,6 @@ Parse:
 				}
 			}
 		}
-		println("no code space found")
 		r = append(r, noRune)
 		raw = raw[1:]
 	}
